@@ -187,8 +187,11 @@ WantedBy=default.target
 ```
 
 3. Activación
+
 ![enable-service](img/enableiptablesservice.png)
+
 4. Resultado
+
 ![iptables-exec](img/resultadoiptables.png)
 
 # Generación certificado con Certbot
